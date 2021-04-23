@@ -2,7 +2,7 @@
     pageEncoding="EUC-KR"%>
 <html>
 <head>
-	<title>해정이가 만든 홈페이지</title>
+	<title>jsp 실습 페이지 생성</title>
 	 <link rel="stylesheet" type="text/css" href="style.css">
 	 <script type="text/javascript">
 	 	function openMember(){
